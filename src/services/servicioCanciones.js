@@ -1,7 +1,7 @@
 export async function servicioCanciones()
 {
     const URI="https://api.spotify.com/v1/artists/1IQ2e1buppatiN1bxUVkrk/top-tracks?market=ES"
-    const TOKEN="Bearer BQAZ_-GIyzCxHaO80ZCeA8gpRAjSkD0Dt-7QLl-D6VWICD1pMF6MZFc7hRkXpiwfas_EDNuO_uPbBESjgbYzadeRvEfkYsYUCvmQnneSDvTqgg1DsFWjyYNiHxK3NPL_1MJ435xy01U-QbQrg6puqgxeWK-rT7foFt7FoIjQqX2GudQqQ9UMp-XpjzwF0uPVDEc"
+    const TOKEN="Bearer BQAHuvhy57OHGM0RD8tzD0ix4KLG1HY2ZA2MfcILKNxFLNsDAw2kMOuIaArPelWkpL7oxOM7sah529W8r-_Y7MxygFkpfh0YBwKSCXXG-e7ZTc6FN4KjLCe1wX08Ce9mWThhobe2BuOjSNLoD0N5JbazlCIZBbF6coR6Adee8DwQlT4JbAPq8kxNWh5DrbIg_hk"
     const PETICION=
     {
         method:"GET",
